@@ -21,7 +21,7 @@ h3 {
   font: italic 400 30px/40px "Gentium Book Basic", serif;
 }
 
-```.navLinks {
+.navLinks {
   list-style: none;
   padding-left: 0;
 }
